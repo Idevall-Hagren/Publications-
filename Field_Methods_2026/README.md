@@ -119,7 +119,7 @@ respondents <- data.frame(
 round(respondents, 2)
 ```
 
-Average APA across all 300 pairs of respondents is 0.56. Sorting density ranges from 8 for id2 (eight piles of two) to 56 for id1 (two piles of eight). The seven habitat sorters have the lowest average APA (0.32 to 0.42). Those who sort by kind range from 0.52 to 0.81.
+Average APA is 0.56. Sorting density ranges from 8 for id2 (eight piles of two) to 56 for id1 (two piles of eight). The seven habitat sorters have the lowest average APA (0.32 to 0.42). Those who sort by kind range from 0.52 to 0.81.
 
 Then decompose the matrix:
 

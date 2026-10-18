@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "Adjusted Positive Agreement (APA): R code for Idevall Hagren (2026), Field Methods"
+type: software
+authors: [{family-names: "Idevall Hagren", given-names: "Jonas", orcid: "https://orcid.org/0009-0007-1589-7577", affiliation: "Karolinska Institutet; Uppsala University"}]
+repository-code: "https://github.com/Idevall-Hagren/Publications-"
+license: MIT
+keywords: ["pile sorting", "card sorts", "lumper-splitter problem", "agreement measure", "positive agreement", "pair-counting", "cultural domain analysis", "cultural models", "cognitive science"]
+preferred-citation: {type: article, title: "Adjusted Positive Agreement: A Chance-Corrected Agreement Measure for Unconstrained Pile Sorts", authors: [{family-names: "Idevall Hagren", given-names: "Jonas", orcid: "https://orcid.org/0009-0007-1589-7577"}], journal: "Field Methods", year: 2026, doi: "10.1177/1525822X261464653", url: "https://doi.org/10.1177/1525822X261464653"}
